@@ -274,8 +274,8 @@
         top: 0;
         z-index: 3;
         height: 100%;
-        padding: 70px 45px;
-        background-color: rgba(118, 119, 182, 0.7);
+        padding: 70px 70px;
+        background-color: rgba(118, 119, 182, 0.9);
     }
 
     .header__nav__items {
@@ -284,8 +284,10 @@
     }
 
     .header__nav__item {
-        margin-bottom: 20px;
+        margin-bottom: 40px;
+        font-size: 22px;
     }
+    
 
     .header__nav .nav__button {
         position: absolute;
